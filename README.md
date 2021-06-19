@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**ashavijit/ashavijit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - JGEC
 - 🌱 I’m currently learning ...ReactJS, AngularJS
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...avijitsen817@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
