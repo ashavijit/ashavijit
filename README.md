@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avijit Sen</h1>
 <h3 align="center">Aim to learn Full stack development :)</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/IgodAsQDwvWeWU2ZDY/giphy.gif" max-width="500px"/>
+  <img src="https://media.giphy.com/media/3oz8xQ6746bq8fjBBu/giphy.gif" max-width="500px"/>
 </p>
 
 
