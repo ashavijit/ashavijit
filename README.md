@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avijit Sen</h1>
 <h3 align="center">Aim to learn Full stack development :)</h3>
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40O" height="400" />
+![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashavijit&label=Profile%20views&color=0e75b6&style=flat" alt="ashavijit" /> </p>
 
