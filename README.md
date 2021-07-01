@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/3oz8xQ6746bq8fjBBu/giphy.gif" max-width="500px"/>
 </p>
 <p align="center">
-  <img src= "header_.png">
+  <img src= "header_.png" max-width="200px"/>
   </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashavijit&label=Profile%20views&color=0e75b6&style=flat" alt="ashavijit" /> </p>
