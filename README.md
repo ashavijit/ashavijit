@@ -24,7 +24,28 @@
 - 📫 How to reach me **avijitsen817@gmail.com**
 
 - ⚡ Fun fact **I think im funny XD**
-
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Avijit Sen'
+		current_edu = "Jalpaiguri Govt. Engineering Coliege"
+		hobbies = [
+				'Cricket',
+				'Watching Movies',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Kharagpur_India()
+	
+	def Ambitions():
+		LearnJapanese()
+		CreateSkyNet()
+		FinishMyNovel()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/avijit-sen-69a00b1b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avijit-sen-69a00b1b9/" height="30" width="40" /></a>
