@@ -67,3 +67,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashavijit&show_icons=true&locale=en" alt="ashavijit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashavijit&" alt="ashavijit" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashavijit&theme=dark-smoky)](https://git.io/streak-stats)
