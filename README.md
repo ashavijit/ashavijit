@@ -8,7 +8,8 @@
   </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashavijit&label=Profile%20views&color=0e75b6&style=flat" alt="ashavijit" /> </p>
-
+<p align="left"> <img src="https://badges.pufler.dev/repos/ashavijit" alt="ashavijit" /> </p>
+<p> <img src = "https://spotify-github-profile.vercel.app/api/view?uid=1xqh9d85ptiurfd4wuzftevro&cover_image=true&theme=compact" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashavijit&theme=darkhub" alt="ashavijit" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
