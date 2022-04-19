@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avijit Sen</h1>
-<h3 align="center">Determined to learn Full stack development :)</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Determined+to+learn+Full+stack+development+%3A" max-width="202px">
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" max-width="500px"/>
 </p>
