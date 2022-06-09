@@ -67,7 +67,7 @@
 <p><img align ="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ashavijit&layout=compact" alt ="ashavijit" /> </p>
 
 <p> <img align ="left" src ="https://github-readme-stats.vercel.app/api?username=ashavijit&show_icons=true&theme=dark" alt ="ashavijit" /> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ashavijit&theme=black-ice" alt="ashavijit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ashavijit&theme=city-lights&hide_border=true&date_format=%5BY.%5Dn.j&stroke=53DD25&currStreakNum=DD2727&dates=DD30A9" alt="ashavijit" /></p>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ashavijit&theme=react-dark" alt="ashavijit" /></p>
 
 
