@@ -167,4 +167,9 @@ br/>
 </td></tr></table>  
 
 
+<div align="center">
+  <a href="https://open.spotify.com/user/1xqh9d85ptiurfd4wuzftevro">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
 
