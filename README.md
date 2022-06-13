@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avijit Sen</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Determined+to+learn+Full+stack+development+%3A" max-width="202px">
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=29&color=38F718&lines=Aspiring+Full-Stack+Developer" max-width="202px">
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" max-width="500px"/>
 </p><p align="left"> <img src="https://komarev.com/ghpvc/?username=ashavijit&label=Profile%20views&color=0e75b6&style=flat" alt="ashavijit" /> </p>
