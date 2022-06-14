@@ -172,7 +172,5 @@ br/>
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
