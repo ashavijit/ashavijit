@@ -175,7 +175,8 @@ br/>
 <!--START_SECTION:waka-->
 
 ```text
-Other                      21 mins         ██████░░░░░░░░░░░░░░░░░░░   24.35 %
+JavaScript                 44 mins         █████████░░░░░░░░░░░░░░░░   36.54 %
+Other                      23 mins         █████░░░░░░░░░░░░░░░░░░░░   19.52 %
 ```
 
 <!--END_SECTION:waka-->
