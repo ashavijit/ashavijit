@@ -146,11 +146,11 @@ br/>
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashavijit&show_icons=true&theme=dark" align="left" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/ashavijit/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashavijit&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/ashavijit/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -187,3 +187,5 @@ Go                         26 mins         █▒░░░░░░░░░░�
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
+
