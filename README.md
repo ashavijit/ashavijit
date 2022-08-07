@@ -184,4 +184,6 @@ Go                         26 mins         █▒░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@avijitsen/d309fff8-88d7-4cb8-9e8c-ef2e9e6c4f8d.svg"></embed></figure>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
