@@ -184,5 +184,8 @@ Python           11 mins         █░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+<p align="center">
+
+![](https://leetcard.jacoblin.cool/avijit_sen?theme=unicorn)
 
 
