@@ -1,30 +1,27 @@
-<h1 align="center">Hi 👋, I'm Avijit Sen</h1>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=29&color=38F718&lines=Aspiring+Full-Stack+Developer" max-width="202px">
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" max-width="500px"/>
-</p><p align="left"> <img src="https://komarev.com/ghpvc/?username=ashavijit&label=Profile%20views&color=0e75b6&style=flat" alt="ashavijit" /> </p>
-<p align="left"> <img src="https://badges.pufler.dev/repos/ashavijit" alt="ashavijit" /> </p>
+
+<a href="https://github.com/ashavijit"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=ashavijit&style=flat-square" width="125"/></a>
 
 
-![](https://img.shields.io/github/followers/ashavijit?style=social)
-![](https://img.shields.io/github/stars/ashavijit?style=social)
+<h1 align="left">Hey there, I'm <a href="https://github.com/ashavijit/">Avijit </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+ <a href="https://github.com/ashavijit/Ultimate-Facebook-Scraper"><img align="right" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="Ultimate Facebook Scraper (UFS)" width="200"/></a> - FSD </h1> 
+
+### Full Stack Developer @ <a href="https://seedersmedia.com/">Seeders Media LLP</a> Ex-Frontend Developer Lead @ <a href="https://dreamlegal.in/">DreamLegal</a> && FreeLancer @ <a href="localee.co.in">Lokal</a>
 
 
 
+<hr>
 
-
-
-
-- 🔭 I’m currently working on **Docker , Kubernetes**
-
-- 🌱 I’m currently learning **ReactJs , AngularJs**
-
-- 👯 I’m looking to collaborate on **ReactJs projects**
-
-- 👨‍💻 All of my projects are available at [My Website](avijitsen-me.vercel.app)
-
-- 📫 How to reach me **avijitsen817@gmail.com**
+<h2 align="left">🌐 Connect</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/avijit-sen-69a00b1b9/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100052683937154"><img title="Connect on Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://twitter.com/Avijitsen123"><img title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:avijitsen.me@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ashavijit"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_avijit_sen.jsx"><img title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href = "https://gitlab.com/rdx640"> <img src = "https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+  
+</p>
 
 - ⚡ Fun fact **I think im funny XD**
  ## Who am I?
@@ -57,29 +54,7 @@
 		
 	
  ```
-<h3 align="left">Connect with me:</h3>
-<div align="center">
-<a href="https://twitter.com/Avijitsen123" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/##" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/avijit-sen-69a00b1b9" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Avijit Sen" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/ashavijit" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_avijit_sen.jsx" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
 
-br/>  
 
 
 ## My Skill Set  
@@ -167,11 +142,6 @@ br/>
 </td></tr></table>  
 
 
-<div align="center">
-  <a href="https://open.spotify.com/user/1xqh9d85ptiurfd4wuzftevro">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
 <!--START_SECTION:waka-->
 
 ```text
@@ -183,7 +153,8 @@ Other        5 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 <p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=1xqh9d85ptiurfd4wuzftevro&cover_image=true&theme=default" align="left" style="width: 50%" />
 
-![](https://leetcard.jacoblin.cool/avijit_sen?theme=unicorn)
 
+</p>
 
