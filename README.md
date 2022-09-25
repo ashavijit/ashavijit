@@ -155,7 +155,7 @@ Bash         10 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=1xqh9d85ptiurfd4wuzftevro&cover_image=true&theme=default" align="left" style="width: 50%" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=1xqh9d85ptiurfd4wuzftevro&cover_image=true&theme=default" align="center" style="width: 20%" />
 
 
 </p>
