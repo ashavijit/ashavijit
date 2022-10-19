@@ -142,18 +142,7 @@
 </td></tr></table>  
 
 
-<!--START_SECTION:waka-->
 
-```text
-C#           32 mins         ███████▓░░░░░░░░░░░░░░░░░   30.14 %
-TypeScript   29 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.31 %
-CSS          7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-JSON         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-C++          6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-CSHTML       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-```
-
-<!--END_SECTION:waka-->
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=1xqh9d85ptiurfd4wuzftevro&cover_image=true&theme=default" align="center" style="width: 20%" />
 
