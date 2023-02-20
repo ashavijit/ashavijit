@@ -137,12 +137,10 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ashavijit&theme=react-dark" align="left" style="width: 100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashavijit&theme=radical&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr></table>  
-<!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashavijit&bg_color=5ac71f&color=b75824&line=182bb4&point=802d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
- -->
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashavijit&theme=radical&hide_border=true" align="left" style="width: 100%" />
+
 
  
 
