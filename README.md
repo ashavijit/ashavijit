@@ -51,11 +51,11 @@ struct Engineer {
 
 ## 🚀 What I’m Building
 
-| Project | Description | Highlights |
-| :--- | :--- | :--- |
-| **High-Frequency Trading Engine** | Ultra-low latency order execution system. | `ZeroMQ` `nanomsg` `Micro-optimizations` |
-| **VoltaxDB** | High-performance in-memory database with persistence. | `C++` `Custom TCP` `LSM-tree` |
-| **Options Analytics Platform** | Real-time market data analytics pipeline. | `Kafka` `Redis Streams` `MongoDB` |
+| Project | Description | Highlights | Link
+| :--- | :--- | :--- | :--- | 
+| **SwiftJS API Framework** | A TypeScript-first, high-performance API framework. | `TypeScript` `Radix Tree` `Api-Docs` | https://github.com/ashavijit/swiftjs (Under dev)
+| **EasyCLI** | The modern framework for building type-safe, beautiful CLI applications. | `TypeScript` `Custom UI` `TUI` | https://github.com/ashavijit/easycli 
+| **SwiftBench** | A fast, zero-config API benchmarking tool built for real traffic simulation. | `unidici` `Network` `TS` | https://github.com/ashavijit/swiftbench
 
 ---
 
